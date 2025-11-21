@@ -48,34 +48,11 @@
 }
 
 
-/* .About_us_page{
-    height: 100vh;
-    background-color: #e1c2a3;
-    border: 30px solid #895129;
-} */
 .second_page_heading{
     margin-left: 30px;
     margin-top: 60px;
 
 }
-
-/* .image_about_us{
-    margin-right: 10px;
-    margin-top: 100px;
-    margin-left: 30px;
-    border-radius: 20px;
-} */
-
-/* .about_us_heading{
-    position:relative;
-    left: 40%;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-style: italic;
-    border-bottom: 3px solid #c16d0d; 
-    display: inline-block; 
-    padding: 20px
-} */
-
 
 .menu_container{
     height: 100%;
@@ -166,7 +143,6 @@ input, select {
 
 .order-placed-page {
     height: 100vh;
-    /* background-color: #40220F; */
 }
 
 .order-page-content{
